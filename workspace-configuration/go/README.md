@@ -1,4 +1,4 @@
-# Go module for kortex-cli
+# Go module for kortex Workspace Configuration Type
 
 Usage:
 
